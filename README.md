@@ -4,6 +4,6 @@
 <h2>Microsoft Azure</h2>
  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joneslogisticsllc1/azure-network-protocols)
  
-  [Resource Group (RG) and Virtual Machine](https://github.com/Damon Jones/azure-Virtual Machine)
-  
-   [Configuring Active Directory  within Azure VMs](https://github.com/Damon Jones/azure)
+  [Resource Group (RG) and Virtual Machine](https://github.com/Joneslogisticsllc1/azure-Virtual Machine)
+  <h3>Microsoft Azure</h3>
+   [Configuring Active Directory  within Azure VMs](https://github.com/Joneslogisticsllc1/azure)
